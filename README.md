@@ -1,4 +1,4 @@
-# BMI change effects of biological pathways
+# Analysis of the effects of BMI change on biological pathways
 
 This is a repository for code that performs the analysis of sequential expression data to evaluate the impact of BMI change on biological pathways from the Keyoto encyclopedia of genes and genomes (KEGG).
 
